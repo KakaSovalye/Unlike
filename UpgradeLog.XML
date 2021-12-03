@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Unlike">
+</Property><Property Name="Solution File" Value="C:\Users\Berkin\Documents\Visual Studio 2010\Projects\Unlike\Unlike.sln">
+</Property><Property Name="Date" Value="07 Mayıs 2010 Cuma">
+</Property><Property Name="Time" Value="20:23">
+</Property></Properties><Event ErrorLevel="0" Project="Unlike" Source="Unlike\Unlike.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Unlike" Source="Unlike\Unlike.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Unlike.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Unlike.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Unlike" Source="Unlike\Unlike.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
